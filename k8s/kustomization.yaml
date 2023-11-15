@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: dan1993/gitopsfc
-  newTag: 2debfe6f21537f4d5ea5f5831c92422085c609b2
+  newTag: 93ad6d8794e815fabf86b6b626030875dc255b05
